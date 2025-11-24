@@ -7,7 +7,7 @@ El Sistema de Administración de Consultas Médicas es una aplicación desarroll
 
 Aquí se muestra el modelo UML que representa las entidades principales del sistema y sus relaciones:
 
-![Diagrama de Clases](imagenes/DIAGRAMAAA.png)
+![Diagrama de Clases](Imagenes/DIAGRAMAAA.png)
 
 🚀 Características principales
 
